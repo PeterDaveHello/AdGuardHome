@@ -4,6 +4,11 @@
 
 ## v0.107.3: API changes
 
+### The new optional field `"ecs"` in `QueryLogItem`
+
+* The new optional field `"ecs"` in `GET /control/querylog` contains the IP
+  network from an EDNS Client-Subnet option from the request message if any.
+
 ### The new possible status code in `/install/configure` response.
 
 * The new status code `422 Unprocessable Entity` in the response for

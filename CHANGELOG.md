@@ -17,6 +17,7 @@ and this project adheres to
 
 ### Added
 
+- EDNS Client-Subnet information in query log request details ([#3978]).
 - `windows/arm64` support ([#3057]).
 
 ### Changed
@@ -87,6 +88,7 @@ In this release, the schema version has changed from 12 to 13.
 [#3367]: https://github.com/AdguardTeam/AdGuardHome/issues/3367
 [#3381]: https://github.com/AdguardTeam/AdGuardHome/issues/3381
 [#3503]: https://github.com/AdguardTeam/AdGuardHome/issues/3503
+[#3978]: https://github.com/AdguardTeam/AdGuardHome/issues/3978
 [#4216]: https://github.com/AdguardTeam/AdGuardHome/issues/4216
 [#4221]: https://github.com/AdguardTeam/AdGuardHome/issues/4221
 [#4238]: https://github.com/AdguardTeam/AdGuardHome/issues/4238
