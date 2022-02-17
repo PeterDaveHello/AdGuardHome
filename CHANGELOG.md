@@ -17,7 +17,8 @@ and this project adheres to
 
 ### Added
 
-- EDNS Client-Subnet information in query log request details ([#3978]).
+- EDNS Client-Subnet information in the request details section of a query log
+  record. ([#3978]).
 - `windows/arm64` support ([#3057]).
 
 ### Changed

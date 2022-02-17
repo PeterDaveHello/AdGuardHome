@@ -2,7 +2,7 @@
 
 <!-- TODO(a.garipov): Reformat in accordance with the KeepAChangelog spec. -->
 
-## v0.107.3: API changes
+## v0.107.4: API changes
 
 ### The new optional field `"ecs"` in `QueryLogItem`
 
@@ -14,6 +14,8 @@
 * The new status code `422 Unprocessable Entity` in the response for
   `POST /install/configure` which means that the specified password does not
   meet the strength requirements.
+
+## v0.107.3: API changes
 
 ### The new field `"version"` in `AddressesInfo`
 
