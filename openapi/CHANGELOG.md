@@ -2,7 +2,7 @@
 
 <!-- TODO(a.garipov): Reformat in accordance with the KeepAChangelog spec. -->
 
-## v0.107.4: API changes
+## v0.108.0: API changes
 
 ### The new optional field `"ecs"` in `QueryLogItem`
 
